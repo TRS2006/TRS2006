@@ -22,6 +22,8 @@ Aspirante da tecnologia em constante evolução! Acompanhe meus projetos e apren
 ### Meus últimos projetos
 
 - [Tela de login - Html e css]( https://trs2006.github.io/login-tela/)<br/>
+- [Jogo da Memória - Html css e JavaScript]( https://trs2006.github.io/js-emoji-memory-game/)<br/>
+- [Jogo Detona Ralph - html css e Javascript](https://trs2006.github.io/jsgame-detona-ralph/)<br/>
   
 
 
