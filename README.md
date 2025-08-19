@@ -1,29 +1,45 @@
-### Olá! Bem-vindo👋🏻
-
-[![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tain%C3%A1-roberta-2a5ab9282?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_tainarobertha?igsh=MWk1NzFxZ3k3ZWoxMg==)
+## Hello! Bem-Vindo(a)👋🏻
 
 
+💻 **Desenvolvedora em formação** apaixonada por tecnologia, design e pela criação de soluções que fazem a diferença.  
+🚀 Estou trilhando o caminho para me tornar **Fullstack Developer**, com foco em desenvolver aplicações modernas, responsivas e eficientes.  
 
-![Tainá GitHub stats](https://github-readme-stats.vercel.app/api?username=TRS2006&_icons=true&theme=radical)
+### 🌟 Sobre mim  
+- 🎯 Estudante de **Análise e Desenvolvimento de Sistemas**  
+- 💡 Gosto de **trazer soluções para problemas reais**, transformando ideias em projetos práticos  
+- 📚 Sempre em busca de aprender mais sobre **JavaScript, PHP, Node.js, HTML, CSS e Bootstrap**  
+- 🎨 Interesse em **UI/UX Design** e desenvolvimento web responsivo
+
+### 🛠️ Tecnologias e Ferramentas
+- **Front-end:** HTML5 | CSS3 | JavaScript | Bootstrap  
+- **Back-end:** PHP (iniciando) | mySql (iniciando)  
+- **Outros:** Git & GitHub | Figma 
+
+
+## 📌 Projetos em destaque
+- 🔗 [Landing Page Personal Trainer](https://structcodes.github.io/site-personal-trainer/) – Site responsivo feito com HTML, CSS e JS.  
+- 🔗 [Sistema de Controle Financeiro]( https://structcodes.github.io/sistema-de-controle-financeiro/) – Site responsivo feito com HTML, CSS e JavaScript.  
+- 🎵 Repertório Musical com cifras e categorias (projeto pessoal em andamento).  
+
+---
 
 ## Tecnologias que eu uso no meu dia a dia
-
 <div style="display: inline_block"><br/>
    <img text-align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
    <img text-align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
    <img text-align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
    <img text-align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-   <img text-align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+   
 </div><br/>
 
-Aspirante da tecnologia em constante evolução! Acompanhe meus projetos e aprendizado aqui no GitHub!
 
-### Meus últimos projetos
+## 📫 Vamos nos conectar!
+[![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-red?style=for-the-badge&logo=gmail&logoColor=white)](tainaroberta102@gmail.com)
 
-- [Tela de login - Html e css]( https://trs2006.github.io/login-tela/)<br/>
-- [Jogo da Memória - Html css e JavaScript]( https://trs2006.github.io/js-emoji-memory-game/)<br/>
-- [Jogo Detona Ralph - html css e Javascript](https://trs2006.github.io/jsgame-detona-ralph/)<br/>
+
+
+
+
   
 
 
